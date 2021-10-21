@@ -1,0 +1,52 @@
+.about_diwali {
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    width: 85%;
+    border-radius: 7px;
+    background: orange;
+    color: white;
+    border: 3px solid black;
+}
+
+.go_back {
+    font-family: 'Pacifico', cursive;
+    font-size: 15px;
+    background: orange;
+    color: white;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+
+body {
+    background: linear-gradient(#737909, #00d4ff);
+}
+
+.about_diwali:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.go_back:hover {
+    cursor: pointer;
+    color: red;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+.copy_right_footer {
+    background: orange;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    margin-top: 230px;
+    color: white;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.copy_right_footer:hover {
+    cursor: pointer;
+    color: red;
+}
